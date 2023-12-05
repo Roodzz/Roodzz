@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=w3000&lines=Welcome!+👋;+I'm+Guilherme!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=w3000&lines=Welcome!+👋;+I'm+Guilherme!;+Full Stack Engineer;+" />
 </h1>
 
 [![Linkedin: Guilherme](https://img.shields.io/badge/-Guilherme%20Andrade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gui-dev/)](https://www.linkedin.com/in/gui-dev/)
