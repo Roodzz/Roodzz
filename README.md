@@ -13,11 +13,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
   <img width="12" />
-  <img src ="https://skillicons.dev/icons?i=aws" perline=8 />
+  <img src ="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
   <img width="12" />
-  <img src ="https://skillicons.dev/icons?i=azure" perline=8 />
+  <img src ="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo" />
 </div>
 
 
