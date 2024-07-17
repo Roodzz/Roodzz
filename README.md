@@ -15,9 +15,9 @@
   <img width="12" />
    <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
   <img width="12" />
-  <img src ="https://skillicons.dev/icons?i=aws" perline=15 />
+  <img src ="https://skillicons.dev/icons?i=aws" perline=8 />
   <img width="12" />
-  <img src ="https://skillicons.dev/icons?i=azure" perline=15 />
+  <img src ="https://skillicons.dev/icons?i=azure" perline=8 />
 </div>
 
 
